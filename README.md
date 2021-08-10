@@ -21,12 +21,15 @@ Create a model to predict if a review will be liked
 Create a model to show trends in text*
 ## Results
 Random Forest:
+<br />
     On Validation:
     |  A | B  |  C | D | E  |
     |---|---|---|---|---|
     |  1 | 1  | 1  | 1  |  1 |
     |  1 | 1  | 1  | 1  |  2 |
     |  1 | 1  | 1  | 1  |  3 |
+    
+    <br />
     On Test:
     |   |   |   |   |   |
     |---|---|---|---|---|
@@ -34,18 +37,22 @@ Random Forest:
     |   |   |   |   |   |
     |   |   |   |   |   |
 XGB:
+    <br />
     On Validation:
     |  A | B  |  C | D | E  |
     |---|---|---|---|---|
     |  1 | 1  | 1  | 1  |  1 |
     |  1 | 1  | 1  | 1  |  2 |
     |  1 | 1  | 1  | 1  |  3 |
+    
+    <br />
     On Test:
     |   |   |   |   |   |
     |---|---|---|---|---|
     |   |   |   |   |   |
     |   |   |   |   |   |
     |   |   |   |   |   |
+
 ## Misc.
 word cloud
 graphs
